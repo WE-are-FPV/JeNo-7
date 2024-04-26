@@ -50,23 +50,22 @@ The JeNo is also available in [5.1-6" version](https://github.com/WE-are-FPV/JeN
 
 ||| 
 | :--- | :--- |
-| **Geometry** | Wide-X | 
-| **Props size** | 5.1" (or 6" with optional arms) | 
-| **Weight** | 120 à 145 g depending on options, with screws | 
-| **Arms** | 6 mm | 
+| **Geometry** | **Wide-X** | 
+| **Props size** | 7" | 
+| **Weight** | **248 to 260 g** depending on the versions, including screws | 
+| **Arms** | **6 mm** (with 4mm reinforcements), **8mm** | 
 | **Body height** | 30 mm | 
-| **Stack height** | 21.5 mm | 
-| **Bottom plate** | 2 or 2.5 mm depending on options | 
+| **Stack height** | 19.5 to 21.5 mm depending the arms heights | 
+| **Bottom plate** | 3mm | 
 | **Middle plate** | 2.5 mm | 
-| **Top plate** | 2 mm | 
+| **Top plate** | 2.5 mm | 
 | **Camera plates** | 3 mm | 
-| **Motors mounting** | 16 mm | 
-| **Camera** | 20 mm (DJI), Micro, Nano. Clear FOV. Ajustable.
-| **Main stack** | 30.5 mm x 30.5 mm and 20 mm x 20 mm | 
+| **Motors mounting** | 16 to 19 mm | 
+| **Camera** | 20 mm (DJI), Micro, Nano. **Clear FOV**. Ajustable.
+| **Main stack** | 25.5 mm x 25.5 mm (M2) AiO and 20 mm x 20 mm (M2) stack | 
 | **Back stack** | 20 mm x 20 mm and 25 .5 x 25.5 mm | 
 | **Supported VTX** | Analogic, DJI Vista, DJI Air Unit O3, WalkSnail, HDZero… | 
 | **Strap passage** | Yes | 
-| **XT60 passage** | Yes (front and back) + passage for a zip tie | 
 
 ## Customization
 
