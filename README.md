@@ -101,8 +101,8 @@ Several types of camera plates are available, so you will need to **choose** the
 
 ![JeNo 7 Camera Plates blue prints](./images/JeNo7_Camera_Plates.jpg)
 
-###TPU
-For now, a minimalist TPU kit is available to you, containing:
+### TPU
+For now, a **minimalist TPU kit** is available to you, containing:
 
 * O3 antenna mount
 * 50V capacitor mount + spike absorber
