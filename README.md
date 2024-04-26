@@ -23,9 +23,24 @@ Designed in France by members of the [WE are FPV](https://www.wearefpv.fr/) comm
 - [x] **Customizable** (weight, arms, camera plates)
 
 ## Presentation
+Building on the success of the [5.1-6" version](https://github.com/WE-are-FPV/JeNo-5.1) and [3-3.5" version](https://github.com/WE-are-FPV/JeNo-3-3.5) versions, the **JeNo lineup** expands with this new variation in **7"**. We stay true to the JeNo spirit, offering a **versatile frame** that is perfect for **Long Range, cinematic**, and even **Freestyle** use, thanks to its strength and flight performance.
 
+Given the limited options in the **Open Source** community for 7", especially for DJI O3 setups, we wanted to provide the community with a solid new option that caters to various needs while remaining true to the **"JeNo philosophy"** :
 
-Finally, as this frame was designed by members of the [WE are FPV](https://www.wearefpv.fr/) community, a "WaF edition" is available (the logo is engraved on the bottom plate). Join us on the WAF forum in [the official JeNo 7" thread](https://forum.wearefpv.fr/topic/22687-jeno-7/) to discuss it further.
+* **Clean Black Box** for easy tuning
+* **Modularity**, with **8mm arms** (or 6mm with reinforcements) and a wide range of camera plates:
+- Classic at 25°
+- High tilt at 40°
+- Cinematic with clean FOV ("Wide") / 25° tilt (hard or soft)
+- Cinematic with clean FOV ("Wide") / 40° tilt
+* Frame and spacers invisible in the video feed with all cameras
+* **100% clear FOV** with DJI O3 setups with cinematic camera plates (no frame or propellers visible)
+* **Wide X** geometry for better flight feel
+* Comfortable bus for lipos up to over 6S / 3000mAh (+140mm available)
+
+![JeNo 7 Profile](./images/JeNo7_Profile.jpg)
+
+Finally, as this frame was designed by members of the [WE are FPV](https://www.wearefpv.fr/) **community**, a **"WaF edition"** is available (the logo is engraved on the bottom plate). Join us on the WAF forum in [the official JeNo 7" thread](https://forum.wearefpv.fr/topic/22687-jeno-7/) to discuss it further.
 
 ![WE are FPV banner](./images/WAF_Banner.jpg)
 
