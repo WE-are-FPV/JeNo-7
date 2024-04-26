@@ -68,8 +68,47 @@ The JeNo is also available in [5.1-6" version](https://github.com/WE-are-FPV/JeN
 | **Strap passage** | Yes | 
 
 ## Customization
+As usual, this JeNo is **customizable** : it offers several **options** to best adapt to different needs and preferences.
 
-The JeNo is customizable, offering several **options** to best adapt to different needs and individual preferences.
+### The arms
+We **strongly recommend** having the version with **8mm** arms cut (see Black Box a little further down). However, the version with 6mm + reinforcements remains entirely viable in case you have constraints on the availability of 8mm carbon.
+
+The weight of the two versions remains very similar.
+
+![JeNo 7 weights](./images/JeNo7_Weights_6mmVS8mm.jpg)
+
+![JeNo 7 verions](./images/JeNo7_NakedFrame.jpg)
+
+### Camera plates and O3 integration
+
+![JeNo 7 Cmera Plates](./images/JeNo7_InHand.jpg)
+
+`The use of a 200mm coaxial cable is mandatory.`
+
+Remarks regarding the **PWM frequency** of ESCs:
+
+* **DJI recommends** using a PWM frequency of **48 kHz** or higher for effective stabilization
+* However, a PWM frequency of **24 kHz is generally recommended for 7"**
+* We have not observed stabilization issues while remaining at 24 kHz, even with a "hard mount". Therefore, we encourage you to test 24 kHz before anything higher.
+
+Comparison of **FOV** with specific 7" Cinematic camera plates:
+
+![JeNo 7 Camera Plates](./images/JeNo7_FOV.jpg)
+
+The "cinematic" camera plates will allow you to enoy a completely clear FOV with a **wide FOV** (and consequently, after stabilization).
+
+Several types of camera plates are available, so you will need to **choose** the type of camera plate that best suits **your needs**.
+
+![JeNo 7 Camera Plates blue prints](./images/JeNo7_Camera_Plates.jpg)
+
+###TPU
+For now, a minimalist TPU kit is available to you, containing:
+
+* O3 antenna mount
+* 50V capacitor mount + spike absorber
+* Rear bumper + RX antenna mount
+
+This offering will expand over time thanks to the community.
 
 ## Cut it !
 
