@@ -75,16 +75,13 @@ In addition to the carbon fiber, you will need the following hardware to complet
 
 Here is an overview of vibration distribution on the 3 axes for the JeNo "classic Freestyle." This is indeed the unfiltered gyro signal for a 3 minutes freestyle flight :
 
-![JeNo Blackbox](./images/JeNo_BB.jpg)
+![JeNo Blackbox](./images/JeNo7_BlackBox.jpg)
 
 ## Videos
 Freestyle with JeNo :
 
-[![JeNo 5.1 Maiden](https://img.youtube.com/vi/Fe3_sJf0j6o/0.jpg)](https://www.youtube.com/watch?v=Fe3_sJf0j6o "JeNo 5.1 Maiden - Click to Watch!")
+[![JeNo 7" Maiden](./images/JeNo7_video_cruising.jpg)](https://www.youtube.com/watch?v=4mE-WnIyyHg "JeNo 7 Maiden - Click to Watch!")
 
-JeNo review on WE are FPV (French) :
-
-[![JeNo review on WE are FPV (French)](https://img.youtube.com/vi/RtPTJsno8Kg/0.jpg)](https://www.youtube.com/watch?v=RtPTJsno8Kg "JeNo review on WE are FPV (French) - Click to Watch!")
 
 ## Builds examples
 
