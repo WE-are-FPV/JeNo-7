@@ -118,6 +118,61 @@ You can get it cut in your favourite flavour and source the materials yourself. 
 
 In addition to the carbon fiber, you will need the following hardware to complete the assembly of the frame.
 
+**Standoffs**
+
+It is recommended to use 5mm diameter standoffs, especially for those that will serve as support for TPU (backpack and capacitor). Moletted spacers can still be used, but the TPU supports will need to be modified accordingly.
+
+| Quantity | Description | Details |
+| :---: | :--- | :--- |
+| 10 | M3x30mm standoffs | for the body |
+| 2 (or 4 for cinematic plates) | M3x20mm standoffs | for the camera |
+
+**Stack materials**
+
+* If 30x30 stack
+
+| Quantity | Description | Details |
+| :---: | :--- | :--- |
+| 4 | M3x20mm countersunk screws | for the stack |
+| 4 | M3 nuts for stack screws | |
+
+* If 20x20 stack
+
+| Quantity | Description | Details |
+| :---: | :--- | :--- |
+| 4 | M3x20mm countersunk screws | for the stack |
+| 4 | M3 nuts for stack screws | |
+
+**Frame materials**
+
+| Quantity | Description | Details |
+| :---: | :--- | :--- |
+| 6 | M3x6/8mm countersunk screws | for the top plate |
+| 4 | M3x6/8mm screws | for the top plate |
+| 10 | M3x8mm screws (titanium if possible) | Bottom plate |
+| 4 (or 8 for cinematic plates) | M3x6/8mm screws (titanium if possible) | Camera plates |
+| 12 | Pressnuts ([Flywoo](https://www.drone-fpv-racer.com/flywoo-m3-clinch-nuts-20-pcs-7965.html?aff=64&id_campaign=13#/1063-couleur-titane) or SourceOne alike) | |
+| 4 | M3x18mm countersunk screws + washers or M3x16mm screws (steel if possible)  | for the arms (2 mm shorter for 6mm arms) |
+| 4 | M3x12mm countersunk screws + washers or M3x10mm screws (steel if possible) | for the arms (2 mm shorter for 6mm arms) |
+
+**Additional materials 6mm amrs  renforcements**
+
+| Quantity | Description | Details |
+| :---: | :--- | :--- |
+| 8 | Pressnuts ([Flywoo](https://www.drone-fpv-racer.com/flywoo-m3-clinch-nuts-20-pcs-7965.html?aff=64&id_campaign=13#/1063-couleur-titane) or SourceOne alike) | 2 per arm) |
+| 8 | M3x12mm screws | 2 per arm |
+
+**Additional materials**
+
+| Quantity | Description | Details |
+| :---: | :--- | :--- |
+| 16 | M3x12mm screws (if using arms protections) or M3x8mm (if no TPU) | for the motors (2 mm shorter for 6mm arms) |
+| 4 | M2x5mm screws | for the camera |
+
+**Fasten the lipo**
+
+The JeNo allows the use of non-slip straps thanks to its strap slots. You can also use a LiPo pad if desired.
+
 ## Building/Assembly guide
 
 
