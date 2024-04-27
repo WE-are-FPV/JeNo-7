@@ -12,9 +12,9 @@
 
 ## Index
 
-* [Key features](https://github.com/WE-are-FPV/JeNo-7#key-features)
+* [Key features](#key-features)
 * [Presentation](https://github.com/WE-are-FPV/JeNo-7#presentation)
-* [Detailed specifications](https://github.com/WE-are-FPV/JeNo-7#detaileds-specifications)
+* [Detailed specifications](https://github.com/WE-are-FPV/JeNo-7#detailed-specifications)
 * [Customization](https://github.com/WE-are-FPV/JeNo-7#customization)
 * [Cut it !](https://github.com/WE-are-FPV/JeNo-7#cut-it-)
 * [Bill of materials](https://github.com/WE-are-FPV/JeNo-7#bill-of-materials)
