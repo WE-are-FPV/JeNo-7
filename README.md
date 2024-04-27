@@ -101,15 +101,6 @@ Several types of camera plates are available, so you will need to **choose** the
 
 ![JeNo 7 Camera Plates blue prints](./images/JeNo7_Camera_Plates.jpg)
 
-### TPU
-For now, a **minimalist TPU kit** is available to you, containing:
-
-* O3 antenna mount
-* 50V capacitor mount + spike absorber
-* Rear bumper + RX antenna mount
-
-This offering will expand over time thanks to the community.
-
 ## Cut it !
 
 You can get it cut in your favourite flavour and source the materials yourself. There is no packaged version planned at the moment.
@@ -174,16 +165,31 @@ It is recommended to use 5mm diameter standoffs, especially for those that will 
 The JeNo allows the use of non-slip straps thanks to its strap slots. You can also use a LiPo pad if desired.
 
 ## Building/Assembly guide
+The assembly of the frame is straightforward; however, a few clarifications:
 
+* On one of the two sides of the **middle plate**, there are countersunk holes to accommodate countersunk screws. This side corresponds to the **underside**. Do not forget to install the stack screws before installing the middle plate.
+* The pressnuts will be positioned on the underside of the bottom plate.
+* An RX T antenna can be fixed to the rear of the JeNo using zip ties.
+* Six screws of the top plate are countersunk screws to avoid damaging the battery.
 
 ## Inspiration
+The JeNo 7" takes inspiration from the path laid out by the [KayouLoin](https://kayou-frames.com/fr/frames/25-kayouloin-7-frame.html).
 
+While implementing 8mm arms remains quite evident, the KayouLoin innovates by introducing a **body that matches the quad's proportions**.
+
+Certainly, this adds weight, but it provides the frame with unparalleled comfort in accommodating suitable batteries and absolute rigidity in holding the arms. If the cutting and sourcing of hardware are too constraining for you, we advise you to go directly to [Kayou's website](https://kayou-frames.com/fr/) !
+
+## Tuning, Betaflight Preset ?
+We probably won't provide a preset because motor setups have a huge influence, but here are some recommendations from Mark Spartz for 7" setups:
+
+* ESCs PWM Frequency at **24KHz**
+* **Reduce I** compared to a 5" (start with the slider at 0.5)
 
 ## Blackbox
 
-Here is an overview of vibration distribution on the 3 axes for the JeNo "classic Freestyle." This is indeed the unfiltered gyro signal for a 3 minutes freestyle flight :
+Here is an overview of vibration distribution on the 3 axes for the JeNo 7". On the right with 6 mm arms (+ reinforcements), on the left with 8 mm arms. This is indeed the **unfiltered** gyro signal for a 3 minutes freestyle flight :
 
-![JeNo Blackbox](./images/JeNo7_BlackBox.jpg)
+![JeNo 7 Blackbox](./images/JeNo7_BlackBox.jpg)
 
 ## Videos
 Freestyle with JeNo :
@@ -201,7 +207,13 @@ The JeNo was designed by :
 * nochamo - [Youtube](https://www.youtube.com/user/nochamo)
 
 ## TPU
+For now, a **minimalist TPU kit** is available to you, containing:
 
+* O3 antenna mount
+* 50V capacitor mount + spike absorber
+* Rear bumper + RX antenna mount
+
+This offering will expand over time thanks to the community.
 
 ## Community (remixes and TPU)
 
@@ -215,3 +227,4 @@ In addition to the TPU options available on this page, you will find here some T
 
 `Compatibility is consistently maintained between each version: if your frame was a v1, the parts from v1.2 will be compatible. The same applies to TPU accessories. That's why we don't keep the history of previous versions.`
 
+**23/04/2024 :** Version 1.0
