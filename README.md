@@ -71,8 +71,8 @@ The JeNo is also available in [5.1-6" version](https://github.com/WE-are-FPV/JeN
 As usual, this JeNo is **customizable** : it offers several **options** to best adapt to different needs and preferences.
 
 ### The arms
-[!TIP]
-We **strongly recommend** having the version with **8mm** arms cut (see Black Box a little further down). 
+> [!TIP]
+> We **strongly recommend** having the version with **8mm** arms cut (see Black Box a little further down). 
 
 However, the version with 6mm + reinforcements remains entirely viable in case you have constraints on the availability of 8mm carbon.
 
