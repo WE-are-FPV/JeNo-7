@@ -10,6 +10,25 @@
 
 ![JeNo classic - 3D render](./images/JeNo7_Profile_Render.jpg)
 
+## Index
+
+* [Key features](https://github.com/WE-are-FPV/JeNo-7#key-features)
+* [Presentation](https://github.com/WE-are-FPV/JeNo-7#presentation)
+* [Detailed specifications](https://github.com/WE-are-FPV/JeNo-7#detaileds-specifications)
+* [Customization](https://github.com/WE-are-FPV/JeNo-7#customization)
+* [Cut it !](https://github.com/WE-are-FPV/JeNo-7#cut-it-)
+* [Bill of materials](https://github.com/WE-are-FPV/JeNo-7#bill-of-materials)
+* [Building/Assembly guide](https://github.com/WE-are-FPV/JeNo-7#buildingassembly-guide)
+* [Inspiration](https://github.com/WE-are-FPV/JeNo-7#inspiration)
+* [Tuning, Betaflight Preset ?](https://github.com/WE-are-FPV/JeNo-7#tuning-betaflight-preset-)
+* [Blackbox](https://github.com/WE-are-FPV/JeNo-7#blackbox)
+* [Videos](https://github.com/WE-are-FPV/JeNo-7#videos)
+* [Builds examples](https://github.com/WE-are-FPV/JeNo-7#builds-examples)
+* [Authors](https://github.com/WE-are-FPV/JeNo-7#authors)
+* [TPU](https://github.com/WE-are-FPV/JeNo-7#tpu)
+* [Community (remixes and TPU)](https://github.com/WE-are-FPV/JeNo-7#community-remixes-and-tpu)
+* [Changelog](https://github.com/WE-are-FPV/JeNo-7#changelog)
+
 ## Key features
 - [x] **Sturdiness** and **rigidity** (6 or 8 mm arms)
 - [x] Designed as a **real 7"**, not 5" conversion
@@ -47,7 +66,7 @@ Finally, as this frame was designed by members of the [WE are FPV](https://www.w
 
 The JeNo is also available in [5.1-6" version](https://github.com/WE-are-FPV/JeNo-5.1) and [3-3.5" version](https://github.com/WE-are-FPV/JeNo-3-3.5).
 
-## Detaileds specifications
+## Detailed specifications
 
 ||| 
 | :--- | :--- |
@@ -201,9 +220,10 @@ Freestyle with JeNo :
 
 [![JeNo 7" Maiden](./images/JeNo7_video_cruising.jpg)](https://www.youtube.com/watch?v=4mE-WnIyyHg "JeNo 7 Maiden - Click to Watch!")
 
-
 ## Builds examples
+You can find build examples on [WE are FPV's DroneBuilds](https://forum.wearefpv.fr/71-dronebuilds/) :
 
+* [JeNo 7" Fork](https://forum.wearefpv.fr/topic/22645-jeno-7-fork)
 
 ## Authors
 
