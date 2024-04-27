@@ -1,9 +1,9 @@
 [![License: CC BY 4.0](https://img.shields.io/badge/License-CC_BY_4.0-lightgrey.svg)](https://creativecommons.org/licenses/by/4.0/)
 
+![JeNo - Front view](./images/JeNo7_CloseProfileHeader.jpg)
+
 # JeNo 7"
 ***7" drone FPV frame compatible with Air Unit O3 and designed for LR, Cinematic, Freeride and even Freestyle. Many customizable options available.***
-
-![JeNo - Front view](./images/JeNo7_CloseProfileHeader.jpg)
 
 > [!NOTE]
 > Designed in France by members of the [WE are FPV](https://www.wearefpv.fr/) community. The French version of the project is available on [Printables](https://www.printables.com/fr/model/339099-jeno-51-drone-frame). Note that a [3-3.5" version](https://github.com/WE-are-FPV/JeNo-3-3.5) and a [5.1-6" version](https://github.com/WE-are-FPV/JeNo-5.1) of the JeNo exist.
