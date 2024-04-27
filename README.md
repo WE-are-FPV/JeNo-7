@@ -40,7 +40,7 @@
 - [x] Stack **decoupled** from the arms
 - [x] **Easy maintenance** : remove 3 screws to replace an arm
 - [x] **Roomy** (30 mm high)
-- [x] **Customizable** (weight, arms, camera plates)
+- [x] **Customizable** (arms thickness, camera plates)
 
 ## Presentation
 Building on the success of the [5.1-6" version](https://github.com/WE-are-FPV/JeNo-5.1) and [3-3.5" version](https://github.com/WE-are-FPV/JeNo-3-3.5) versions, the **JeNo lineup** expands with this new variation in **7"**. We stay true to the JeNo spirit, offering a **versatile frame** that is perfect for **Long Range, cinematic**, and even **Freestyle** use, thanks to its strength and flight performance.
