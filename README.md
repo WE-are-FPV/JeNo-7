@@ -240,13 +240,13 @@ The JeNo was designed by :
 * nochamo - [Youtube](https://www.youtube.com/user/nochamo)
 
 ## TPU
-For now, a **minimalist TPU kit** is available to you, containing:
+For now, a [minimalist TPU kit](https://github.com/WE-are-FPV/JeNo-7/tree/main/tpu) is available to you, containing:
 
 * O3 antenna mount
 * 50V capacitor mount + spike absorber
 * Rear bumper + RX antenna mount
 
-This offering will expand over time thanks to the community.
+This offering **will expand** over time thanks to the community.
 
 ## Community (remixes and TPU)
 
