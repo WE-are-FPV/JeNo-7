@@ -209,7 +209,7 @@ The JeNo 7" takes inspiration from the path laid out by the [KayouLoin](https://
 
 While implementing 8mm arms remains quite evident, the KayouLoin innovates by introducing a **body that matches the quad's proportions**.
 
-Certainly, this adds weight, but it provides the frame with unparalleled comfort in accommodating suitable batteries and absolute rigidity in holding the arms. If the cutting and sourcing of hardware are too constraining for you, we advise you to go directly to [Kayou's website](https://kayou-frames.com/fr/) !
+Certainly, this adds weight, but it provides the frame with unparalleled comfort in accommodating suitable batteries and absolute rigidity. If the cutting and sourcing of hardware are too constraining for you, we advise you to go directly to [Kayou's website](https://kayou-frames.com/fr/) !
 
 ## Tuning, Betaflight Preset ?
 We probably won't provide a preset because motor setups have a huge influence, but here are some recommendations from Mark Spartz for 7" setups:
