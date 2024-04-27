@@ -6,7 +6,7 @@
 ***7" drone FPV frame compatible with Air Unit O3 and designed for LR, Cinematic, Freeride and even Freestyle. Many customizable options available.***
 
 > [!NOTE]
-> Designed in France by members of the [WE are FPV](https://www.wearefpv.fr/) community. The French version of the project is available on [Printables](https://www.printables.com/fr/model/339099-jeno-51-drone-frame). Note that a [3-3.5" version](https://github.com/WE-are-FPV/JeNo-3-3.5) and a [5.1-6" version](https://github.com/WE-are-FPV/JeNo-5.1) of the JeNo exist.
+> Designed in France by members of the [WE are FPV](https://www.wearefpv.fr/) community. The French version of the project is available on [Printables](https://www.printables.com/fr/model/847975-jeno-7-drone-frame). Note that a [3-3.5" version](https://github.com/WE-are-FPV/JeNo-3-3.5) and a [5.1-6" version](https://github.com/WE-are-FPV/JeNo-5.1) of the JeNo exist.
 
 ![JeNo classic - 3D render](./images/JeNo7_Profile_Render.jpg)
 
@@ -38,7 +38,7 @@
 - [x] Designed for : DJI Vista/AU O3, WalkSnail, HDZero, Analogic
 - [x] **Frame and standoffs NOT visible** in video feed, with any FPV camera
 - [x] Stack **decoupled** from the arms
-- [x] **Easy maintenance** : remove 2 screws to replace an arm
+- [x] **Easy maintenance** : remove 3 screws to replace an arm
 - [x] **Roomy** (30 mm high)
 - [x] **Customizable** (weight, arms, camera plates)
 
