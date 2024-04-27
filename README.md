@@ -119,7 +119,7 @@ Comparison of **FOV** with specific 7" Cinematic camera plates:
 
 ![JeNo 7 Camera Plates](./images/JeNo7_FOV.jpg)
 
-The "cinematic" camera plates will allow you to enoy a completely clear FOV with a **wide FOV** (and consequently, after stabilization).
+The "cinematic" camera plates will allow you to enjoy a completely clear FOV with a **wide FOV** (and consequently, after stabilization).
 
 Several types of camera plates are available, so you will need to **choose** the type of camera plate that best suits **your needs**.
 
