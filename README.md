@@ -107,13 +107,13 @@ The weight of the two versions remains very similar.
 ![JeNo 7 Cmera Plates](./images/JeNo7_InHand.jpg)
 
 > [!CAUTION]
-> The use of a 200mm coaxial cable is mandatory.
+> The use of a 200mm coaxial cable for the O3 camera is mandatory.
 
 Remarks regarding the **PWM frequency** of ESCs:
 
 * **DJI recommends** using a PWM frequency of **48 kHz** or higher for effective stabilization
 * However, a PWM frequency of **24 kHz is generally recommended for 7"**
-* We have not observed stabilization issues while remaining at 24 kHz, even with a "hard mount". Therefore, we encourage you to test 24 kHz before anything higher.
+* We have not observed stabilization issues while remaining at 24 kHz, even with a "hard mounted" camera. Therefore, we encourage you to test 24 kHz before anything higher.
 
 Comparison of **FOV** with specific 7" Cinematic camera plates:
 
