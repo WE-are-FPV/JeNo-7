@@ -136,6 +136,7 @@ The ["dxf"](https://github.com/WE-are-FPV/JeNo-7/tree/main/dxf) folder contains 
 
 > [!NOTE]
 > Each file contains all parts.
+> All camera plates versions are included in the files.
 
 ## Bill of materials
 
