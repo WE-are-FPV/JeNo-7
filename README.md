@@ -82,7 +82,7 @@ The JeNo is also available in [5.1-6" version](https://github.com/WE-are-FPV/JeN
 | **Camera plates** | 3 mm | 
 | **Motors mounting** | 16 to 19 mm | 
 | **Camera** | 20 mm (DJI), Micro, Nano. **Clear FOV**. Ajustable.
-| **Main stack** | 25.5 mm x 25.5 mm (M2) AiO and 20 mm x 20 mm (M2) stack | 
+| **Main stack** | 30 mm x 30 mm (M3) and 20 mm x 20 mm (M3) stack | 
 | **Back stack** | 20 mm x 20 mm and 25 .5 x 25.5 mm | 
 | **Supported VTX** | Analogic, DJI Vista, DJI Air Unit O3, WalkSnail, HDZero… | 
 | **Strap passage** | Yes | 
@@ -126,8 +126,7 @@ Several types of camera plates are available, so you will need to **choose** the
 ![JeNo 7 Camera Plates blue prints](./images/JeNo7_Camera_Plates.jpg)
 
 ## Cut it !
-
-There is no packaged version planned at the moment like the JeNo 5" and 3".
+Unlike the 3 and 5" JeNos, the JeNo 7" won't be available in shop.
 
 The ["dxf"](https://github.com/WE-are-FPV/JeNo-7/tree/main/dxf) folder contains all the files you need to get it **cut** in your favourite flavour :
 
