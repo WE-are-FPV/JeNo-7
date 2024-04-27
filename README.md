@@ -56,7 +56,7 @@ Given the limited options in the **Open Source** community for 7", especially fo
 * Frame and standoffs invisible in the video feed with all cameras
 * **100% clear FOV** with DJI O3 setups with cinematic camera plates (no frame or propellers visible)
 * **Wide X** geometry for better flight feel
-* Comfortable bus for lipos up to over 6S / 3000mAh (+140mm available)
+* Comfortable body for lipos up to over 6S / 3000mAh (+140mm available)
 
 ![JeNo 7 Profile](./images/JeNo7_Profile.jpg)
 
