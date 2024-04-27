@@ -115,7 +115,7 @@ Remarks regarding the **PWM frequency** of ESCs:
 * However, a PWM frequency of **24 kHz is generally recommended for 7"**
 * We have not observed stabilization issues while remaining at 24 kHz, even with a "hard mounted" camera. Therefore, we encourage you to test 24 kHz before anything higher.
 
-Comparison of **FOV** with specific 7" Cinematic camera plates:
+Comparison of **FOV settings** with specific 7" Cinematic camera plates (Ultra Wide vs Wide):
 
 ![JeNo 7 Camera Plates](./images/JeNo7_FOV.jpg)
 
