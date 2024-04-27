@@ -10,7 +10,7 @@
 
 ![JeNo classic - 3D render](./images/JeNo7_Profile_Render.jpg)
 
-## Index
+## Table of contents
 
 * [Key features](#key-features)
 * [Presentation](#presentation)
