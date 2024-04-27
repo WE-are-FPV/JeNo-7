@@ -29,10 +29,10 @@ Given the limited options in the **Open Source** community for 7", especially fo
 
 * **Clean Black Box** for easy tuning
 * **Modularity**, with **8mm arms** (or 6mm with reinforcements) and a wide range of camera plates:
-- Classic at 25°
-- High tilt at 40°
-- Cinematic with clean FOV ("Wide") / 25° tilt (hard or soft)
-- Cinematic with clean FOV ("Wide") / 40° tilt
+  - Classic at 25°
+  - High tilt at 40°
+  - Cinematic with clean FOV ("Wide") / 25° tilt (hard or soft)
+  - Cinematic with clean FOV ("Wide") / 40° tilt
 * Frame and spacers invisible in the video feed with all cameras
 * **100% clear FOV** with DJI O3 setups with cinematic camera plates (no frame or propellers visible)
 * **Wide X** geometry for better flight feel
