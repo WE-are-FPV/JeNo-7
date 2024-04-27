@@ -1,7 +1,7 @@
 [![License: CC BY 4.0](https://img.shields.io/badge/License-CC_BY_4.0-lightgrey.svg)](https://creativecommons.org/licenses/by/4.0/)
 
 # JeNo 7"
-_**7" drone FPV frame compatible with Air Unit O3 and designed for LR, Cinematic, Freeride and even Freestyle. Many customizable options available.**_
+***7" drone FPV frame compatible with Air Unit O3 and designed for LR, Cinematic, Freeride and even Freestyle. Many customizable options available.***
 
 ![JeNo - Front view](./images/JeNo7_CloseProfileHeader.jpg)
 
@@ -71,7 +71,10 @@ The JeNo is also available in [5.1-6" version](https://github.com/WE-are-FPV/JeN
 As usual, this JeNo is **customizable** : it offers several **options** to best adapt to different needs and preferences.
 
 ### The arms
-We **strongly recommend** having the version with **8mm** arms cut (see Black Box a little further down). However, the version with 6mm + reinforcements remains entirely viable in case you have constraints on the availability of 8mm carbon.
+[!TIP]
+We **strongly recommend** having the version with **8mm** arms cut (see Black Box a little further down). 
+
+However, the version with 6mm + reinforcements remains entirely viable in case you have constraints on the availability of 8mm carbon.
 
 The weight of the two versions remains very similar.
 
