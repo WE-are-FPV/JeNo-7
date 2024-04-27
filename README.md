@@ -87,7 +87,8 @@ The weight of the two versions remains very similar.
 
 ![JeNo 7 Cmera Plates](./images/JeNo7_InHand.jpg)
 
-`The use of a 200mm coaxial cable is mandatory.`
+> [!CAUTION]
+> The use of a 200mm coaxial cable is mandatory.
 
 Remarks regarding the **PWM frequency** of ESCs:
 
@@ -229,6 +230,7 @@ In addition to the TPU options available on this page, you will find here some T
 
 ## Changelog
 
-`Compatibility is consistently maintained between each version: if your frame was a v1, the parts from v1.2 will be compatible. The same applies to TPU accessories. That's why we don't keep the history of previous versions.`
+> [!TIP]
+> Compatibility is consistently maintained between each version: if your frame was a v1, the parts from v1.2 will be compatible. The same applies to TPU accessories. That's why we don't keep the history of previous versions.
 
 * **23/04/2024 :** Version 1.0
