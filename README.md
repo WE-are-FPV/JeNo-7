@@ -127,7 +127,15 @@ Several types of camera plates are available, so you will need to **choose** the
 
 ## Cut it !
 
-You can get it cut in your favourite flavour and source the materials yourself. There is no packaged version planned at the moment.
+There is no packaged version planned at the moment like the JeNo 5" and 3".
+
+The ["dxf"](https://github.com/WE-are-FPV/JeNo-7/tree/main/dxf) folder contains all the files you need to get it **cut** in your favourite flavour :
+
+* **JeNo_7_Full_8mm.dxf :** Recommended version with 8mm arms
+* **JeNo_7_Full_6mm.dxf :** 6mm arms version, with reinforcements
+
+> [!NOTE]
+> Each file contains all parts.
 
 ## Bill of materials
 
