@@ -53,7 +53,7 @@ Given the limited options in the **Open Source** community for 7", especially fo
   - High tilt at 40°
   - Cinematic with clean FOV ("Wide") / 25° tilt (hard or soft)
   - Cinematic with clean FOV ("Wide") / 40° tilt
-* Frame and spacers invisible in the video feed with all cameras
+* Frame and standoffs invisible in the video feed with all cameras
 * **100% clear FOV** with DJI O3 setups with cinematic camera plates (no frame or propellers visible)
 * **Wide X** geometry for better flight feel
 * Comfortable bus for lipos up to over 6S / 3000mAh (+140mm available)
