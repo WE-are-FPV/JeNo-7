@@ -223,7 +223,7 @@ Freestyle with JeNo :
 ## Builds examples
 You can find build examples on [WE are FPV's DroneBuilds](https://forum.wearefpv.fr/71-dronebuilds/) :
 
-* [JeNo 7" Fork](https://forum.wearefpv.fr/topic/22645-jeno-7-fork)
+* fr : [JeNo 7" Fork](https://forum.wearefpv.fr/topic/22645-jeno-7-fork)
 
 ## Authors
 
