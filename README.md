@@ -243,8 +243,10 @@ The JeNo was designed by :
 For now, a [minimalist TPU kit](https://github.com/WE-are-FPV/JeNo-7/tree/main/tpu) is available to you, containing:
 
 * O3 antenna mount
+* Double SMA Antenna Support
 * 50V capacitor mount + spike absorber
 * Rear bumper + RX antenna mount
+* Front RX Support
 
 This offering **will expand** over time thanks to the community.
 
