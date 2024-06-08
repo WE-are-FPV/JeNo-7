@@ -247,6 +247,7 @@ For now, a [minimalist TPU kit](https://github.com/WE-are-FPV/JeNo-7/tree/main/t
 * 50V capacitor mount + spike absorber
 * Rear bumper + RX antenna mount
 * Front RX Support
+* Arm protection with skids (6 and 8mm)
 
 This offering **will expand** over time thanks to the community.
 
