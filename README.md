@@ -259,6 +259,8 @@ This offering **will expand** over time thanks to the community.
 
 In addition to the TPU options available on this page, you will find here some TPU designs created by the community.
 
+* [Full TPU set](https://www.printables.com/fr/model/911148-jeno-7-tpu-kit-complet) designed by [Jean-Lil](https://www.printables.com/fr/@JeanLil_707453)
+
 ## Changelog
 
 > [!TIP]
