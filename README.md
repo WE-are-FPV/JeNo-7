@@ -260,6 +260,7 @@ This offering **will expand** over time thanks to the community.
 In addition to the TPU options available on this page, you will find here some TPU designs created by the community.
 
 * [Full TPU set](https://www.printables.com/fr/model/911148-jeno-7-tpu-kit-complet), [immortal-T antenna support](https://www.printables.com/fr/model/914154-jeno7-antenne-immortal-t) and a [DJI Action 2 mount](https://www.printables.com/fr/model/918051-jeno-7-dji-action-2-mount-25deg-filtre-nd-tbs) designed by [Jean-Lil](https://www.printables.com/fr/@JeanLil_707453)
+* [Full TPU set, compatible with COB LEDs](https://makerworld.com/en/models/551901) by [BinaryWhite](https://www.youtube.com/@focal3drone803) (many TPUs are available, including RX and GPS mounts)
 
 ## Changelog
 
