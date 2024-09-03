@@ -128,6 +128,8 @@ Several types of camera plates are available, so you will need to **choose** the
 ## Cut it !
 Unlike the 3 and 5" JeNos, the JeNo 7" won't be available in shop.
 
+However, the JeNo 7" is available from [CNC Madness](https://cncdrones.com/jeno-7-inch.html) (Canada).
+
 The ["dxf"](https://github.com/WE-are-FPV/JeNo-7/tree/main/dxf) folder contains all the files you need to get it **cut** in your favourite flavour :
 
 * **JeNo_7_Full_8mm.dxf :** Recommended version with 8mm arms
