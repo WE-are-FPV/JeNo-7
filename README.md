@@ -261,6 +261,8 @@ This offering **will expand** over time thanks to the community.
 
 **Fork/remix**
 
+* [JeNo 7" Freestyle (Bash Edition)](https://www.printables.com/model/1073983-jeno-7freestyle-bash-edition), a mix between the JeNo 7" and the [JeNo PlatyStyle](https://www.printables.com/model/744619-jeno-51-platystyle-edition), otpimised for freestyle, by [Bash FPV](https://www.youtube.com/watch?v=s_6Gz9fyeIc&ab_channel=BashFPV)
+
 **TPU**
 
 In addition to the TPU options available on this page, you will find here some TPU designs created by the community.
