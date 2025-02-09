@@ -1,6 +1,6 @@
 [![License: CC BY 4.0](https://img.shields.io/badge/License-CC_BY_4.0-lightgrey.svg)](https://creativecommons.org/licenses/by/4.0/)
 > [!NOTE]
-> Current version : **1.1.0** (read [changelog](#changelog) for details)
+> Current version : **1.1.1** (read [changelog](#changelog) for details)
 
 <!--![JeNo - Front view](./images/JeNo7_CloseProfileHeader.jpg)-->
 
@@ -317,6 +317,8 @@ In addition to the TPU options available on this page, you will find here some T
 > [!TIP]
 > Compatibility is consistently maintained between each version: if your frame was a v1, the parts from v1.2 will be compatible. The same applies to TPU accessories. That's why we don't keep the history of previous versions.
 
+* Version **1.1.1** (02/02/2025) :
+  * Addition of cinematic and softmounted camera plates at 25° (for O4 Pro and O3)
 * Version **1.1.0** (01/02/2025) :
   * Support for the Air Unit O4 Pro (camera plates)
 * 21/05/2024 :
